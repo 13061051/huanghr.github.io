@@ -1,7 +1,7 @@
 ---
 
 layout: index
-title: CS Phd Beihang now
+title: Hongren Huang BUAA 
 ---
 ## Contact
 
