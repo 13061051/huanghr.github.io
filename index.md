@@ -1,7 +1,7 @@
 ---
 
 layout: index
-title: Hongren Huang BUAA 
+title: Hongren Huang BUAA
 ---
 ## Contact
 
