@@ -185,21 +185,21 @@ sidebar:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: huanghr@act.buaa.edu.cn # email
+    href: huanghr@act.buaa.edu.cn
     class: 'fas fa-envelope fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: https://github.com/13061051
     class: 'fab fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: Huanghr # codeforces
+    href: none
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
+  - title: huanghr # vjudge
     href: //vjudge.net/user/WuK
     class: 'fas fa-smile fa-fw'
-  - title: 942759535 # qq
+  - title: 308812371 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: huanghongren1995 # weixin
     class: 'fab fa-weixin fa-fw'
   - title: zhihu
     href: //www.zhihu.com/people/wu.kan/activities
