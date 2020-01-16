@@ -202,7 +202,7 @@ sidebar:
   - title: huanghongren1995 # weixin
     class: 'fab fa-weixin fa-fw'
   - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+    href: https://www.zhihu.com/people/huang-hong-ren-17/activities
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
