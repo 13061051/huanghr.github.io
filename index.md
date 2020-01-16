@@ -18,12 +18,9 @@ XueYuan Road No.37,HaiDian District,BeiJing,China**
 
 ## Education
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
-
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+Data and Computer Science, Beihang University, Beijiang
+- Bachelor of Computer Science  (2013.09-2017.07)
+- phd of Computer Science (2017.09-now)
 
 ## Honor
 
@@ -31,7 +28,7 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 20
 
 ## Project
 
-TBD
+
 
 ## Skill
 
@@ -48,4 +45,3 @@ TBD
 
 ## Leadership
 
-TBD
