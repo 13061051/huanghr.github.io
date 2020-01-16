@@ -36,7 +36,7 @@ Data and Computer Science, Beihang University, Beijiang
 
 ## Reserach
 
-- **Data mining**, graph neural network, HIN
+- **Data Mining**, graph neural network, HIN
 - **NLP**, graph knowledge, graph knowledge alignment
 - **User Behavior Learning**
 

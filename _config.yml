@@ -180,7 +180,6 @@ sidebar:
     enable: true
     img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
     info: <br/>BUAA2018级在读phd<br/>计算机专业<br/>4月份的狮子<br/>喵<br/>ASC # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
@@ -194,9 +193,6 @@ sidebar:
   - title: Huanghr # codeforces
     href: none
     class: 'fas fa-chart-bar fw'
-  - title: huanghr # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile fa-fw'
   - title: 308812371 # qq
     class: 'fab fa-qq fa-fw'
   - title: huanghongren1995 # weixin
