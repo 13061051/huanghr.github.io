@@ -30,8 +30,10 @@ Data and Computer Science, Beihang University, Beijiang
 ## Project
  - textcnn https://github.com/13061051/PytorchLeran
  - RL https://github.com/13061051/DQN_flappy_bird
+
 ##Paper
 target ijcai now
+
 ##Reserch Field
 
 - **Data mining**, graph neural network, HIN
