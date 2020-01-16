@@ -1,6 +1,7 @@
 ---
+
 layout: index
-title: beihang huanghongren cs phd
+title: CS Phd Beihang now
 ---
 ## Contact
 
@@ -27,9 +28,15 @@ Data and Computer Science, Beihang University, Beijiang
 
 
 ## Project
+ - textcnn https://github.com/13061051/PytorchLeran
+ - RL https://github.com/13061051/DQN_flappy_bird
+##Paper
+target ijcai now
+##Reserch Field
 
-
-
+- **Data mining**, graph neural network, HIN
+- **NLP**, graph knowledge, graph knowledge alignment
+- **User Behavior Learning**
 ## Skill
 
 - **C/C++**, Familiar
