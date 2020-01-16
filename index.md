@@ -31,14 +31,15 @@ Data and Computer Science, Beihang University, Beijiang
  - textcnn https://github.com/13061051/PytorchLeran
  - RL https://github.com/13061051/DQN_flappy_bird
 
-##Paper
-target ijcai now
+## Paper
+ - target ijcai now
 
-##Reserch Field
+## Reserach
 
 - **Data mining**, graph neural network, HIN
 - **NLP**, graph knowledge, graph knowledge alignment
 - **User Behavior Learning**
+
 ## Skill
 
 - **C/C++**, Familiar
